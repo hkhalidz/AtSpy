@@ -6,7 +6,3 @@ before_install:
   - sudo mv phantomjs-2.0.0-20150528/bin/phantomjs /usr/local/phantomjs/bin/phantomjs
 node_js:
   - "0.12"
-notifications:
-  email:
-    - hkhalidz@me.com
-  on_success: always
